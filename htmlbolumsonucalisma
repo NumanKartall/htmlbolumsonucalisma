@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yemek Tarifi - Hingel</title>
+</head>
+
+<body style="font-family: Arial, Helvetica, sans-serif; background-color: rgb(255, 232, 189);">
+
+    <div class="baslik" style="text-align: center; color: rgb(0, 0, 99);">
+        <h1 id="basadon">Hingel Tarifi - Numan Kartal</h1>
+        <h4>Öncelikle herkese merhabalar bugün sizlere "Hingel" tarifi vereceğim</h4>
+        <img style="border-radius: 5px; width: 500px;"
+            src="https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/shutterstock_1621647184.webp"
+            title="Hingel Yemeği" alt="">
+        <img style="border-radius:5px; height:338px; width:400px; padding-left: 30px; margin: auto;"
+            src="https://www.denenmistarifler.net/wp-content/uploads/2019/03/hingel.png" alt="">
+    </div>
+
+    <section>
+
+        <div style="text-align: center; padding: 50px 0px;">
+
+            <h3 style="color:rgb(0, 0, 92);">Hingelin Tarihçesi</h3>
+
+            <p style="font-weight:500; font-size: 15px;">Hengel, hangel veya hingel (Türkçe: Hangel / Hengel, Kürtçe:
+                Xingal, Azerice: Xıngal / Xəngəl, Dağıstan: Hinkal), Kafkasya'da ortaya çıkmış içsiz-içli bir tür
+                mantıdır. <br>Türkiye'de Artvin ve çevresinde (özellikle Şavşat ilçesinde), Ardahan,Çorum, Sivas, Doğu
+                Karadeniz, Erzurum, Kars'ta yapılır. <br> Dağıstan başta olmak üzere Kafkasya'nın hemen her yerinde
+                benzer ad ile bilinir. Bunun yanında içine patates konulan bir versiyonu da vardır.
+            </p>
+
+        </div>
+
+        <div style="text-align: center; padding: 20px 0px;">
+
+            <h3 style="color:rgb(0, 0, 92);">Hingelin Genel Yapımı</h3>
+
+            <p style="font-weight:500; font-size: 15px;">
+                Hamur merdane ve oklava yardımıyla açılır. Açılan büyük hamur, oklavaya sarılır.
+                Sarıldığı yerin ortasından uzunlamasına kesilir ve oklava kaldırılır.
+                Bütün hamur, uzun uzun kesilmiş ve üst üste konulmuş, hizalanmış olur. Daha sonra o hamur enlemesine
+                kare olacak şekilde kesilir.
+                Pişirilirken yapışmamaları için birbirlerinden ayrılır isteğe göre biraz kurutulur ya da kurutulmadan
+                kaynar suya atılır.
+                Yumuşayana kadar pişirilir.
+                Sarımsaklı yoğurt ve yağda kavrulmuş kırmızı biber ve salça ile servis yapılır.
+                Bunun yanında hengel, yapıldığı yöreye göre çeşitlilik gösterebilir.
+            </p>
+        </div>
+
+        <div style="text-align: center; padding:20px 0px">
+
+            <h3 style="color:rgb(0, 0, 92);">Hingel Tarifi İçin Malzemeler</h3>
+
+            <p style="font-weight: 500; font-size:15px;"></p>
+            <ul style="text-align: center; display: inline;" type="none">
+                <li><b>1)</b> 1 adet yumurta</li><br>
+                <li> <b>2)</b> 1 su bardağı ılık su</li><br>
+                <li> <b>3)</b> Aldığı kadar un</li><br>
+                <li><b>4)</b> 3-4 orta boy patates</li><br>
+                <li> <b>5)</b> Tuz, karabiber, kırmızı toz biber</li><br>
+                <li> <b>6)</b> Üzeri için Tereyağı</li><br>
+                <li> <b>7)</b> Haşlanması için kaynar Su</li><br>
+            </ul>
+
+        </div>
+
+    </section>
+
+    <section>
+
+        <div style="text-align: center; background-color: rgb(255, 227, 175);">
+            <h3 style="color: rgb(0, 0, 92);">Hingel Yapımı - YouTube Video Anlatımı</h3>
+            <iframe width="750" height="450" src="https://www.youtube.com/embed/yBe9FNzRsrc" title="Hingel Yapımı"
+                frameborder="0" allow="accelerometer;" allowfullscreen></iframe>
+        </div>
+
+        <h1 style=" color: rgb(92, 0, 0); text-align: center;">Herkese Afiyet Olsun</h1>
+        <a style="text-align:center; text-decoration:none; font-size: 17px; color:black;" href="#basadon">
+            <h5>BAŞA DÖN</h5>
+        </a>
+
+    </section>
+
+</body>
+</html>
